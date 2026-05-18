@@ -30,3 +30,6 @@ Screenshot /Demos:
 example-  
 
 <a href="https://github.com/Preeti1996611/Swiggy_Learn_dashboard/blob/main/swiggy_dashboard_img.png">Swiggy Restaurant Dashboard </a>
+
+<img width="1390" height="793" alt="swiggy_dashboard_img" src="https://github.com/user-attachments/assets/a334c7a2-da35-4396-9b1a-e6f6a5860c15" />
+
