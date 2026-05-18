@@ -27,6 +27,6 @@ Source data – Swiggy restaurant/cleaned dataset downloaded from Kaggle.
 
 Screenshot /Demos:
 
-example-  https://github.com/Preeti1996611/Swiggy_Learn_dashboard/blob/main/swiggy_dashboard_img.png
+example-  
 
 <a href="https://github.com/Preeti1996611/Swiggy_Learn_dashboard/blob/main/swiggy_dashboard_img.png">Swiggy Restaurant Dashboard </a>
